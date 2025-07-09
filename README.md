@@ -94,4 +94,4 @@ The following reports are generated after execution:
 | Car Rental Test          | Sezgin Mert               | [linkedin.com/in/sezginmert](https://www.linkedin.com/in/sezginmert/)               |
 | Flight Ticket Test       | Mert Güler                | [linkedin.com/in/mertglerr](https://www.linkedin.com/in/mertglerr/)                 |
 
-- **Email:** [oguzhanmguclu@gmail.com](mailto:oguzhanmguclu@gmail.com)
+- **Email:** [sezginmertt@yahoo.com](mailto:sezginmertt@yahoo.com)
